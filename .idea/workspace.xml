@@ -4,67 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="499a746a-d46c-422c-ba1a-d9c350298546" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodeChallengeMeine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1_firstCodeChallenge/Q01_Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1_firstCodeChallenge/Q02_Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1_firstCodeChallenge/Q03_IncrementDecrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1_firstCodeChallenge/Q04_ifStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2_secondCodeChallenge/ASCII.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2_secondCodeChallenge/Q01_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2_secondCodeChallenge/Q02_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2_secondCodeChallenge/Q03_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2_secondCodeChallenge/Q04_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2_secondCodeChallenge/Q05_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2_secondCodeChallenge/Q06_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_thirdCodeChallenge/Q01_PasswordControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_thirdCodeChallenge/Q02_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_thirdCodeChallenge/Q03_MethodCreation_EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_thirdCodeChallenge/Q04_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_thirdCodeChallenge/Q05_WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_thirdCodeChallenge/Q06_MethodCreationReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_thirdCodeChallenge/Q07_MethodCreationMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_thirdCodeChallenge/Q08_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q01_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q02_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q03_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q05_MdArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q06_MdArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q07_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q08_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_fourthCodeChallenge/Q09_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_fifthCodeChallenge/C01_MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_fifthCodeChallenge/C02_MathRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_fifthCodeChallenge/C03_RandomFormul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_fifthCodeChallenge/Q01_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_fifthCodeChallenge/Q02_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_fifthCodeChallenge/Q08_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_fifthCodeChallenge/T01_TopZiplamaMesafesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q01_LocalDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q02_ZoneDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q03_FirstTenSecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q05_NumberOfDaysInMonths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q06_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q07_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q08_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_sixthCodeChallenge/Q09_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_seventhCodeChallenge/F01_printf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_seventhCodeChallenge/F02_CarpimTabloEasy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_seventhCodeChallenge/F03_MarketFisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_seventhCodeChallenge/Q01_OddEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_seventhCodeChallenge/Q02_ConsoleMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_seventhCodeChallenge/Q03_ZarSorusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_seventhCodeChallenge/T06ArraysHard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_seventhCodeChallenge/T07_RomaRakamlari.java" afterDir="false" />
-    </list>
+    <list default="true" id="499a746a-d46c-422c-ba1a-d9c350298546" name="Changes" comment="sunday" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/yldzg/IdeaProjects/JavaCodeChallenge",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yldzg/IdeaProjects/JavaCodeChallenge&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yldzg\IdeaProjects\JavaCodeChallengeMeine\src" />
@@ -187,7 +127,30 @@
       <option name="presentableId" value="Default" />
       <updated>1679647433882</updated>
     </task>
+    <task id="LOCAL-00001" summary="sunday">
+      <created>1681641111981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681641111981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sunday" />
+    <option name="LAST_COMMIT_MESSAGE" value="sunday" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
